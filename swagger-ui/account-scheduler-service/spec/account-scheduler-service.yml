@@ -187,7 +187,7 @@ components:
       description: Данные по операции
       properties:
         account:
-          description: Уникальный идентификатор счёта по которому будет производится операция
+          description: Уникальный идентификатор счёта
           type: string
           format: uuid
         description:

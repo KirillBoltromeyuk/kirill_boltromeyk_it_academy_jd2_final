@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/user-service?currentSchema=security
+    password: postgres
+    username: postgres
+
+app:
+  jwt:
+    secret: NDQ1ZjAzNjQtMzViZi00MDRjLTljZjQtNjNjYWIyZTU5ZDYw
+    issuer: ITAcademy

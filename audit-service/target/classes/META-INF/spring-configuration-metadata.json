@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "app.jwt",
+      "type": "by.itacademy.audit.config.properites.JWTProperty",
+      "sourceType": "by.itacademy.audit.config.properites.JWTProperty"
+    }
+  ],
+  "properties": [
+    {
+      "name": "app.jwt.secret",
+      "type": "java.lang.String",
+      "sourceType": "by.itacademy.audit.config.properites.JWTProperty"
+    }
+  ],
+  "hints": []
+}
